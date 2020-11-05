@@ -1,6 +1,6 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
+# An introduction to NLP
+### Level: Beginner
 ### Presentation: (link to your presentation if exists)
 
 ## Workshop description
