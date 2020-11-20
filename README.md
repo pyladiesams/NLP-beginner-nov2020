@@ -14,5 +14,8 @@ Do not forget to indicate Python version and any other tools
 * Clone the repository
 * Start { TOOL } and navigate to the workshop folder
 
+## Video record
+Will be available 1-2 weeks after the event
+
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
