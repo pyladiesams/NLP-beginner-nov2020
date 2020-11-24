@@ -13,7 +13,8 @@ steps to the visual inspection of trained models using populair NLP libraries su
 A Google account so you can access the Colab notebook.
 
 ## Usage
-Click on the link provided above to access the notebook.
+* Click on the link provided above to access the notebook.
+* Create a copy of the notebook in Google Drive to avoid interference with the shared notebook being used for the workshop. In the menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window. 
 
 ## Video record
 Will be available within 1-2 weeks after the event
