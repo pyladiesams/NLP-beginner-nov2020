@@ -2,7 +2,7 @@
 # An introduction to NLP
 ### Level: Beginner
 ### Presentation: 
-https://colab.research.google.com/drive/1-1jIY9LM1axKWgtz3-95k2xgUCGJHcca?usp=sharing
+https://colab.research.google.com/drive/1jn9iB6DwXUpNdMbawiruiHB0LbpNbu5w?usp=sharing
 
 ## Workshop description
 This workshop will give an overview of common NLP techniques such as part of speech tagging and named entity 
