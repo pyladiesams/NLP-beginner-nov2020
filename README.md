@@ -17,7 +17,7 @@ A Google account so you can access the Colab notebook.
 * Create a copy of the notebook in Google Drive to avoid interference with the shared notebook being used for the workshop. In the menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window. 
 
 ## Video record
-Will be available within 1-2 weeks after the event
+[An introduction to NLP](https://youtu.be/SxoNJuJdXuA)
 
 ## Credits
 This workshop was set up by @pyladiesams and @Aiksas
